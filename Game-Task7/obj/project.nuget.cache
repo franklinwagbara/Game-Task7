@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lg0GQ774D/o=",
+  "dgSpecHash": "VnF0tAUPTVk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Game-Task7.csproj",
+  "projectFilePath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Game-Task7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Franklin Wagbara\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Franklin Wagbara\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

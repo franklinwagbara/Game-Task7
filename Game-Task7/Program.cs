@@ -1,25 +1,19 @@
-﻿
-// Singleton Game Instance
-public sealed class Game
+﻿public sealed class Game
 {
-    private static readonly Game instance = new();
-
-    // Explicit static constructor to tell C# compiler
-    // not to mark type as beforefieldinit
+    private static readonly Lazy<Game> _instance = new(() => new Game());
+    public static Game Instance => _instance.Value;
     static Game()
     {
     }
 
     private Game()
     {
+        World = new World(10, 10);
     }
-
-    public static Game Instance => instance;
 
     public World? World { get; set; }
 }
 
-// Cell Class
 public record Cell
 {
     public string Name { get; init; } = "Empty";
@@ -27,12 +21,11 @@ public record Cell
     public int Y { get; init; }
 }
 
-// World Class
 public class World
 {
-    public Cell[,] Grid { get; init; }
     public int Width { get; init; }
     public int Height { get; init; }
+    public Cell[,] Grid { get; init; }
 
     public World(int width, int height)
     {

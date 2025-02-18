@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\GameTest\\GameTest.csproj": {}
+    "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\GameTest\\GameTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Game-Task7.csproj": {
+    "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Game-Task7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Game-Task7.csproj",
+        "projectUniqueName": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Game-Task7.csproj",
         "projectName": "Game-Task7",
-        "projectPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Game-Task7.csproj",
+        "projectPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Game-Task7.csproj",
         "packagesPath": "C:\\Users\\Franklin Wagbara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\obj\\",
+        "outputPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\GameTest\\GameTest.csproj": {
+    "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\GameTest\\GameTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\GameTest\\GameTest.csproj",
+        "projectUniqueName": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\GameTest\\GameTest.csproj",
         "projectName": "GameTest",
-        "projectPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\GameTest\\GameTest.csproj",
+        "projectPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\GameTest\\GameTest.csproj",
         "packagesPath": "C:\\Users\\Franklin Wagbara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\GameTest\\obj\\",
+        "outputPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\GameTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Game-Task7.csproj": {
-                "projectPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Game-Task7.csproj"
+              "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Game-Task7.csproj": {
+                "projectPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Game-Task7.csproj"
               }
             }
           }

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\",
+  "WorkspaceRootPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{461F6DD9-22F4-483F-B02B-66297FD30A22}|Game-Task7\\Game-Task7.csproj|c:\\users\\franklin wagbara\\documents\\turing\\task7\\game-task7\\game-task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461F6DD9-22F4-483F-B02B-66297FD30A22}|Game-Task7\\Game-Task7.csproj|solutionrelative:game-task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70811AA9-7589-4D46-ADB5-32CB7A6BBCFA}|GameTest\\GameTest.csproj|c:\\users\\franklin wagbara\\documents\\turing\\task7\\game-task7-ideal\\gametest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70811AA9-7589-4D46-ADB5-32CB7A6BBCFA}|GameTest\\GameTest.csproj|solutionrelative:gametest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70811AA9-7589-4D46-ADB5-32CB7A6BBCFA}|GameTest\\GameTest.csproj|c:\\users\\franklin wagbara\\documents\\turing\\task7\\game-task7\\gametest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70811AA9-7589-4D46-ADB5-32CB7A6BBCFA}|GameTest\\GameTest.csproj|solutionrelative:gametest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461F6DD9-22F4-483F-B02B-66297FD30A22}|Game-Task7\\Game-Task7.csproj|c:\\users\\franklin wagbara\\documents\\turing\\task7\\game-task7-ideal\\game-task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461F6DD9-22F4-483F-B02B-66297FD30A22}|Game-Task7\\Game-Task7.csproj|solutionrelative:game-task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Program.cs",
               "RelativeDocumentMoniker": "Game-Task7\\Program.cs",
-              "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\Game-Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\Game-Task7\\Program.cs",
               "RelativeToolTip": "Game-Task7\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowEkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAA3wDUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T18:08:17.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\GameTest\\Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\GameTest\\Test1.cs",
               "RelativeDocumentMoniker": "GameTest\\Test1.cs",
-              "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7\\GameTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Task7\\Game-Task7-Ideal\\GameTest\\Test1.cs",
               "RelativeToolTip": "GameTest\\Test1.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T17:16:41Z",
               "EditorCaption": ""
